@@ -1,0 +1,6 @@
+[submodule "Interceptor"]
+	path = Interceptor
+	url = https://github.com/BreadKid/Interceptor
+[submodule "pic"]
+	path = bolg-pic
+	url = https://github.com/BreadKid/bolg-pic
